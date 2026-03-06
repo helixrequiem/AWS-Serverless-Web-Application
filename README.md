@@ -15,5 +15,4 @@ In this project , we will build a serverless web application using AWS Lambda,Dy
 
 # Architecture
 
-![image.png](attachment:0a94ed1a-2567-451d-a45d-6ee7792132e5:image.png)
-
+![Serverless Web Application on AWS Architecture](https://user-images.githubusercontent.com/66474973/228492073-5cd3d975-3439-4ce4-b109-fb33997df3c3.png)
