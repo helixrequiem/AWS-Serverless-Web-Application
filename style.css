@@ -1,0 +1,104 @@
+/* Global */
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    background: #f4f6f8;
+    color: #333;
+}
+
+/* Header */
+header {
+    background: #222;
+    color: white;
+    padding: 25px 0;
+    text-align: center;
+}
+
+.subtitle {
+    margin-top: 5px;
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+.counter-number {
+    margin-top: 10px;
+    font-weight: 500;
+}
+
+/* Main layout */
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+/* Card */
+.card {
+    background: white;
+    padding: 35px;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+    width: 320px;
+    text-align: center;
+}
+
+/* Form */
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+label {
+    text-align: left;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+/* Input */
+input {
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+/* Input focus */
+input:focus {
+    outline: none;
+    border-color: #444;
+}
+
+/* Button */
+button {
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    background: #222;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Hover */
+button:hover {
+    background: #444;
+}
+
+/* Greeting */
+#greeting {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #eee;
+    font-size: 14px;
+}
