@@ -1,7 +1,4 @@
-# AWS-Serverless-Web-Application
-Serverless web application on aws 
 # Serverless Web Application
-
 # Project Description
 
 In this project , we will build a serverless web application using AWS Lambda,DynamoDB, and S3. The appilcation will allow users to create,read,update and delete(CRUD) items from a DynamoDB table.
